@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Autospill test</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
